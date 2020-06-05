@@ -1,1 +1,2 @@
-# Lb2_KPP2020
+# lb2
+![screenshot](screenshot.png "Приклад роботи програми")
